@@ -25,5 +25,5 @@ webpack
 
 ----
 
-> 案例学习地址： [webpack学习和踩坑](http://likr.cn/#/post/c2370c82870cdeb752f44dc7b49546555e70b517)
+> 案例学习地址： [webpack学习和踩坑](http://likr.cn/home.html#/post/c2370c82870cdeb752f44dc7b49546555e70b517)
 
